@@ -12,10 +12,6 @@ I am a software engineer with a passion for Python, Javascript, Node.js, React, 
 <img align='left' alt='express' width='48px' src="https://user-images.githubusercontent.com/102339574/190522229-97553ca6-2c06-4cac-9364-f2029f514b69.png" />
 <img align='left' alt='flask' width='48px' src="https://user-images.githubusercontent.com/102339574/190522313-34df722f-d0fa-4b5a-ab98-7decfb521141.png" />
 
-
-<br />
-
-'''
 followings are my projects, check them out:
 
 [gulp](https://gulp-zhihong.herokuapp.com/)
