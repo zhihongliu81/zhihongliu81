@@ -1,11 +1,11 @@
 ### Hi there 👋 My name is Zhihong Liu.
 
-<!--
-**zhihongliu81/zhihongliu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
 
 I am a software engineer with a passion for Python, Javascript, Node.js, React, Redux, Express, Flask, Sequelize and SQLAlchemy.
+
+![python](https://user-images.githubusercontent.com/102339574/190521064-3f6678f6-6d3c-4477-ab48-7387d3ed7904.png)
+
 
 followings are my projects, check them out:
 
