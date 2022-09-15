@@ -10,4 +10,6 @@ I am a software engineer with a passion for Python, Javascript, Node.js, React, 
 followings are my projects, check them out:
 
 [gulp](https://gulp-zhihong.herokuapp.com/)
+[Outstagram](https://outstagram--app.herokuapp.com/)
+[meetup-clone](https://meetup-clone-by-zhihong.herokuapp.com/)
 
