@@ -16,3 +16,7 @@ followings are my projects, check them out:
 [meetup-clone](https://meetup-clone-by-zhihong.herokuapp.com/)
 
 
+### Reach me at:
+
+![Linkedin-Logo](https://user-images.githubusercontent.com/102339574/190435542-5a583044-f218-4a59-a43f-b7b1a4f5958a.png)
+
